@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b806def-7db8-4dfe-bf07-ae9f159df9ee" name="Changes" comment="full">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1:4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2:4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3:4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4:4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Rectangle 90.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Vector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ama.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/app store.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/h_ava.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header_menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/i_basket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/i_choices.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/i_home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/i_profile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img1 girl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img2 girl2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img3 girl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/incendiary-fantastically-beautiful-girl-coat-eco-fur-moves-fun-picture-lovely-lady-pink-clothes-removebg-preview 1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/laco.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/left_pages.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/levi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/obay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/r_store.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/right_pages.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sale.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AleksanderGladchenko&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kotik228322/Desktop.git&quot;,
+    &quot;accountId&quot;: &quot;88493821-e949-43ca-9b2e-6f9aff507f0d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2nvOf4JpcdhOwNDaomKGxca7IfH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.shop.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macbookpro/Desktop/Новая папка/shop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SwiftWorkspaceSettings">
+    <option name="detectedToolchain" value="true" />
+    <option name="toolchainPathValue" value="/Library/Developer/CommandLineTools" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b806def-7db8-4dfe-bf07-ae9f159df9ee" name="Changes" comment="" />
+      <created>1729850183193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729850183193</updated>
+      <workItem from="1729850184287" duration="1136000" />
+      <workItem from="1729851517664" duration="15000" />
+      <workItem from="1729851550167" duration="83000" />
+      <workItem from="1729851637307" duration="138000" />
+      <workItem from="1729851787600" duration="25000" />
+      <workItem from="1729851816010" duration="225000" />
+      <workItem from="1729852044593" duration="1851000" />
+      <workItem from="1730020425560" duration="6000" />
+      <workItem from="1730020434542" duration="6892000" />
+      <workItem from="1730136249972" duration="290000" />
+      <workItem from="1730305315091" duration="9132000" />
+      <workItem from="1730373041229" duration="1543000" />
+      <workItem from="1730392433520" duration="7298000" />
+      <workItem from="1730459852999" duration="1369000" />
+      <workItem from="1730492340410" duration="3957000" />
+      <workItem from="1730529524287" duration="204000" />
+      <workItem from="1730533885326" duration="80000" />
+      <workItem from="1730624481818" duration="6463000" />
+      <workItem from="1730716833688" duration="3354000" />
+      <workItem from="1730927971266" duration="85000" />
+      <workItem from="1731007735869" duration="4160000" />
+      <workItem from="1731238719623" duration="1340000" />
+      <workItem from="1731240292500" duration="8925000" />
+      <workItem from="1731658188765" duration="4774000" />
+      <workItem from="1733389348213" duration="2696000" />
+      <workItem from="1733435559334" duration="1511000" />
+      <workItem from="1733580272328" duration="62000" />
+      <workItem from="1733584208804" duration="131000" />
+      <workItem from="1733584448014" duration="1000" />
+      <workItem from="1733757569853" duration="485000" />
+      <workItem from="1734016373793" duration="673000" />
+    </task>
+    <task id="LOCAL-00001" summary="full">
+      <option name="closed" value="true" />
+      <created>1729851072445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729851072445</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="full" />
+    <option name="LAST_COMMIT_MESSAGE" value="full" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
