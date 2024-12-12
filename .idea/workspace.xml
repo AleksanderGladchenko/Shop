@@ -4,53 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b806def-7db8-4dfe-bf07-ae9f159df9ee" name="Changes" comment="full">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1:4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2:4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/3:4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4:4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Rectangle 90.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Vector.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ama.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/app store.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/h_ava.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/header_menu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/i_basket.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/i_choices.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/i_home.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/i_profile.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img1 girl.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img2 girl2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img3 girl.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/incendiary-fantastically-beautiful-girl-coat-eco-fur-moves-fun-picture-lovely-lady-pink-clothes-removebg-preview 1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/laco.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/left_pages.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/levi.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/nm.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/obay.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/r_store.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/right_pages.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sale.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/shop.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/yellow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop.js" afterDir="false" />
-    </list>
+    <list default="true" id="8b806def-7db8-4dfe-bf07-ae9f159df9ee" name="Changes" comment="full1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -150,6 +111,7 @@
       <workItem from="1733584448014" duration="1000" />
       <workItem from="1733757569853" duration="485000" />
       <workItem from="1734016373793" duration="673000" />
+      <workItem from="1734040147029" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="full">
       <option name="closed" value="true" />
@@ -159,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729851072445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="full">
+      <option name="closed" value="true" />
+      <created>1734040335638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734040335638</updated>
+    </task>
+    <task id="LOCAL-00003" summary="full1">
+      <option name="closed" value="true" />
+      <created>1734040437034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734040437034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,7 +171,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="full" />
-    <option name="LAST_COMMIT_MESSAGE" value="full" />
+    <MESSAGE value="full1" />
+    <option name="LAST_COMMIT_MESSAGE" value="full1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
