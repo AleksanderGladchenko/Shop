@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b806def-7db8-4dfe-bf07-ae9f159df9ee" name="Changes" comment="full1" />
+    <list default="true" id="8b806def-7db8-4dfe-bf07-ae9f159df9ee" name="Changes" comment="12.12.2024">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +113,7 @@
       <workItem from="1733584448014" duration="1000" />
       <workItem from="1733757569853" duration="485000" />
       <workItem from="1734016373793" duration="673000" />
-      <workItem from="1734040147029" duration="299000" />
+      <workItem from="1734040147029" duration="413000" />
     </task>
     <task id="LOCAL-00001" summary="full">
       <option name="closed" value="true" />
@@ -137,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734040437034</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="12.12.2024">
+      <option name="closed" value="true" />
+      <created>1734040511238</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734040511238</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +182,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="full" />
     <MESSAGE value="full1" />
-    <option name="LAST_COMMIT_MESSAGE" value="full1" />
+    <MESSAGE value="12.12.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="12.12.2024" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
